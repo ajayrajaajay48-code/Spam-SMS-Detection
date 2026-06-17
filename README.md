@@ -7,7 +7,7 @@ Features of the Project:
 3.Trains a Support Vector Machine Model.
 4.It predicts whether the SMS are Spam or ham.
 5.This Project is simple and user friendly.
-
+ 
 Technologies Used:
 1.Python
 2.Pandas
